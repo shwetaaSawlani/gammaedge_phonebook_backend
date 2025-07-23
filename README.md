@@ -19,3 +19,13 @@ JWT_SECRET=
 <br>
 REFRESH_SECRET=
 <br>
+<br>
+
+
+this is phonebook backend where it has api for crud, bookmark contacts, filter by lable, search by name and controller for pagination.
+sign in, sign up, logout api
+middleware for cloudinary to upload contact avatar, middleware multer
+<br>
+middleware for authorization using token verifaction.
+<br>
+it has swagger for testing apis, email and password validation packages.
