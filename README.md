@@ -5,7 +5,7 @@ here is the sample
 <br>
 PORT=5000
 <br>
-MONGODB_URI=mongodb+srv://shwetasawlani:<password>@cluster1.eadpgfj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1
+MONGODB_URI=mongodb+srv://shwetasawlani:<<password>>@cluster1.eadpgfj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1
 
 CORS_ORIGIN =*
 
