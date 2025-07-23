@@ -1,7 +1,7 @@
 .env should be in root drectory 
 
 <br>
-here is the sample 
+here is the sample:
 <br>
 PORT=5000
 <br>
@@ -23,11 +23,17 @@ REFRESH_SECRET=
 
 
 this is phonebook backend where it has api for crud, bookmark contacts, filter by lable, search by name and controller for pagination.
-sign in, sign up, logout api
+sign in, sign up, logout api.
 <br>
-
 middleware for cloudinary to upload contact avatar, middleware multer
 <br>
 middleware for authorization using token verifaction.
 <br>
 it has swagger for testing apis, email and password validation packages.
+<br> 
+<br>
+it has self signed certificate to run the server on https. 
+<br>
+the backend is dockerized
+<br> 
+it is returned in typescript.
