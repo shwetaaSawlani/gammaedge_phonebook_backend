@@ -36,4 +36,5 @@ it has self signed certificate to run the server on https.
 <br>
 the backend is dockerized
 <br> 
-it is returned in typescript.
+TechStack - Mern Stack + Typescript.
+updated code in New_branch
