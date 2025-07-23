@@ -29,6 +29,8 @@ middleware for cloudinary to upload contact avatar, middleware multer
 <br>
 middleware for authorization using token verifaction.
 <br>
+jwt for token generation and verification.
+<br>
 it has swagger for testing apis, email and password validation packages.
 <br> 
 <br>
